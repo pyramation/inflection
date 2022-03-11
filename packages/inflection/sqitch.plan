@@ -18,3 +18,5 @@ schemas/inflection/procedures/singular [schemas/inflection/schema schemas/inflec
 schemas/inflection/procedures/slugify [schemas/inflection/schema] 2017-08-11T08:11:51Z skitch <skitch@5b0c196eeb62> # add schemas/inflection/procedures/slugify
 schemas/inflection/tables/inflection_rules/fixtures/1589249334312_fixture [schemas/inflection/schema schemas/inflection/tables/inflection_rules/table] 2017-08-11T08:11:51Z skitch <skitch@5b0c196eeb62> # add schemas/inflection/tables/inflection_rules/fixtures/1589249334312_fixture
 schemas/inflection/tables/inflection_rules/indexes/inflection_rules_type_idx [schemas/inflection/schema schemas/inflection/tables/inflection_rules/table] 2017-08-11T08:11:51Z skitch <skitch@5b0c196eeb62> # add schemas/inflection/tables/inflection_rules/indexes/inflection_rules_type_idx
+schemas/inflection/procedures/upper [schemas/inflection/schema] 2022-03-11T04:31:20Z System Administrator <root@Ds-PyraPro> # add schemas/inflection/procedures/upper
+schemas/inflection/procedures/lower [schemas/inflection/schema] 2022-03-11T04:31:51Z System Administrator <root@Ds-PyraPro> # add schemas/inflection/procedures/lower
